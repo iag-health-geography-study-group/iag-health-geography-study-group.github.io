@@ -8,4 +8,4 @@ layout: default
 
 Group email list:
 
-- https://groups.io/g/iag-hgsg
+- [https://groups.io/g/iag-hgsg](https://groups.io/g/iag-hgsg)
